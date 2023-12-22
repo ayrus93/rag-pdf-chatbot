@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+.streamlit/secrets.toml
+
+Lib
+
+pyvenv.cfg
+
+etc
+
+share
